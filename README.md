@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com processamento de dados
 - 🌱 Estudando HTML, CSS, Javascript
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/jeniffermarcondes">
