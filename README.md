@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Jeniffer Marcondes
 
 - 🔭 Hoje trabalho com processamento de dados
-- 🌱 Estudando HTML, CSS, Javascript, Phyton
+- 🌱 Estudando HTML, CSS, Javascript, Python
 - 😄 Pronomes: ela/dela
 
 
