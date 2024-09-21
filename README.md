@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Jeniffer Marcondes
 
-- 🔭 Hoje trabalho com processamento de dados
+- 🔭 Hoje trabalho como QA Tester
 - 🌱 Estudando HTML, CSS, Javascript, Python
 - 😄 Pronomes: ela/dela
 
